@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "web-vitals": "^4.2.4"
+  },
+  "dependencies": {
+    "zustand": "^5.0.2"
   }
 }
